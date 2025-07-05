@@ -1,11 +1,37 @@
-# Sample Snack app
+# 📱 React Native Calculator App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A simple and responsive calculator app built using **React Native** and **Expo**. It supports basic arithmetic operations and has a clean, user-friendly interface.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+![Calculator Screenshot](./assets/calculator-preview.png) <!-- Add your screenshot or screen recording here -->
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 🚀 Features
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- ✅ Addition, Subtraction, Multiplication, Division
+- ✅ Clear (`C`) and Equals (`=`) operations
+- ✅ React Hooks (`useState`) for state management
+- ✅ Responsive design for mobile
+- ✅ Built and tested with Expo
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+---
+
+## 🛠️ Tech Stack
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- JavaScript (ES6+)
+- React Hooks
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/react-native-calculator.git
+cd react-native-calculator
+
+# Install dependencies
+npm install
+
+# Start the Expo server
+npx expo start
