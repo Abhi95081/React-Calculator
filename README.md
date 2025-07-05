@@ -2,7 +2,8 @@
 
 A simple and responsive calculator app built using **React Native** and **Expo**. It supports basic arithmetic operations and has a clean, user-friendly interface.
 
-![Calculator Screenshot](./assets/calculator-preview.png) <!-- Add your screenshot or screen recording here -->
+![Screenshot 2025-07-05 161322](https://github.com/user-attachments/assets/9501d08b-6da7-4d51-9dcb-e4b99e2a2d62)
+ <!-- Add your screenshot or screen recording here -->
 
 ## 🚀 Features
 
